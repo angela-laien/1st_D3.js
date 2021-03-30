@@ -1,8 +1,8 @@
 const DUMMY_DATA = [
-    { id: 'd1', value: 10, region: 'USA' },
-    { id: 'd2', value: 11, region: 'India' },
-    { id: 'd3', value: 12, region: 'China' },
-    { id: 'd4', value: 16, region: 'Germany' },
+    { id: 'd1', value: 10, region: 'Texas' },
+    { id: 'd2', value: 11, region: 'Washington' },
+    { id: 'd3', value: 12, region: 'New York' },
+    { id: 'd4', value: 16, region: 'California' },
 ];
 
 const xScale = d3
